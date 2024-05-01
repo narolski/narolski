@@ -1,6 +1,6 @@
 ### Hi! I'm [@narolski](https://github.com/narolski) (Paweł Narolski) 👋
 
-Machine Learning Engineer based in Wrocław, Poland. 🇵🇱
+AI Engineer based in Wrocław, Poland. 🇵🇱
 
 I'm working on AI-based biometric recognition and identity document processing-based identity verification systems. 🕵️
 
